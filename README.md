@@ -1,7 +1,7 @@
 Name : Vallapureddy Tejeshwar Reddy 
 ID   : CTO8PP471
 Domain : Data science
-Duration : 4 week from 10th may 2024 to 10th june 2024
+Duration : 4 week from 20th may 2024 to 20th june 2024
 Mentor  : Sravani Gouni
 Description : 
 Exploratory Data Analysis (EDA) of the Titanic Dataset
